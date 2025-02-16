@@ -9,7 +9,7 @@ function checkInput() {
         resultDiv.style.color = "green";
         
         setTimeout(() => {
-            window.location.href = "../techtreasurermedium2/index.html"; 
+            window.location.href = "../techtreasurerhunt-round5(1)/index.html"; 
         }, 2000); 
     } else {
         resultDiv.textContent = "Incorrect! Please try again.";
